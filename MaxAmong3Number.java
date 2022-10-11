@@ -1,5 +1,4 @@
 package com.Day13.mahant;
-package com.Day13.mahant;
 
 public class MaxAmong3Number<T> {
 	T num1, num2, num3, num4;
